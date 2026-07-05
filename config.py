@@ -12,9 +12,9 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Bot and owner info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "SHIVANSHDEVS")
-BOT_USERNAME = getenv("BOT_USERNAME", "SapnaMusicRobot")
-BOT_NAME = getenv("BOT_NAME", "SAPNA")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "ll_SABKA_BHAI_KILLER_ll")
+BOT_USERNAME = getenv("BOT_USERNAME", "KILLER_FELL_MUSIC_BOT")
+BOT_NAME = getenv("BOT_NAME", "SHIV")
 ASSUSERNAME = getenv("ASSUSERNAME", "KHWAAISH_HOON")
 
 # MongoDB
@@ -22,8 +22,8 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 # Limits and IDs
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
-LOGGER_ID = int(getenv("LOGGER_ID", -1002018556839))
-OWNER_ID = int(getenv("OWNER_ID", 6762113050))
+LOGGER_ID = int(getenv("LOGGER_ID", -1004314079704))
+OWNER_ID = int(getenv("OWNER_ID", 5505030156))
 
 # Heroku
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
@@ -35,8 +35,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ITSZSHUKLA")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MASTIWITHFRIENDSXD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/do_dil_ek_jaan143")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+K6zqvGn5_4QyOGNl")
 
 # YT-API Get from @AmShashank on tg
 YOUR_API_KEY = getenv("YOUR_API_KEY", "")
@@ -82,7 +82,7 @@ DEBUG_IGNORE_LOG = True
 
 ###### IMAGE URLS ######
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/t18g0v.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/230a240669f5a1fa1a762.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/t18g0v.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/t18g0v.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/t18g0v.jpg"
