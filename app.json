@@ -1,7 +1,7 @@
 {
   "name": "Stranger Music",
   "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-  "logo": "https://telegra.ph/file/b61227af05544deb76a34.jpg",
+  "logo":"https://telegra.ph/file/230a240669f5a1fa1a762.jpg",
   "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "29308061",
+      "value": "11511742",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "462de3dfc98fd938ef9c6ee31a72d099",
+      "value": "341cd5b29dfdb3f7729bbc2816d39909",
       "required": true
     },
     "BOT_TOKEN": {
@@ -34,7 +34,7 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "6762113050",
+      "value": "5505030156",
       "required": true
     },
     "STRING_SESSION": {
@@ -54,17 +54,17 @@
     },
     "LOGGER_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-      "value": "-1002018556839",
+      "value": "-1003687712570",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Your bot's support channel link (must start with https://)",
-      "value": "https://t.me/ITSZSHUKLA",
+      "value": "https://t.me/do_dil_ek_jaan143",
       "required": false
     },
     "SUPPORT_CHAT": {
       "description": "Your bot's support group link (must start with https://)",
-      "value": "https://t.me/MASTIWITHFRIENDSXD",
+      "value": "https://t.me/+K6zqvGn5_4QyOGNl",
       "required": false
     }
   },
